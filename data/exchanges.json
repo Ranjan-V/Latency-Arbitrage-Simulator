@@ -1,0 +1,188 @@
+{
+    "exchanges": [
+        {
+            "id": "NYSE",
+            "name": "New York Stock Exchange",
+            "lat": 40.7069,
+            "lon": -74.0113,
+            "city": "New York",
+            "type": "equity"
+        },
+        {
+            "id": "NASDAQ",
+            "name": "NASDAQ",
+            "lat": 40.7489,
+            "lon": -73.968,
+            "city": "New York",
+            "type": "equity"
+        },
+        {
+            "id": "CME",
+            "name": "Chicago Mercantile Exchange",
+            "lat": 41.8781,
+            "lon": -87.6298,
+            "city": "Chicago",
+            "type": "derivatives"
+        },
+        {
+            "id": "LSE",
+            "name": "London Stock Exchange",
+            "lat": 51.5149,
+            "lon": -0.0909,
+            "city": "London",
+            "type": "equity"
+        },
+        {
+            "id": "JPX",
+            "name": "Japan Exchange Group",
+            "lat": 35.6762,
+            "lon": 139.6503,
+            "city": "Tokyo",
+            "type": "equity"
+        },
+        {
+            "id": "SSE",
+            "name": "Shanghai Stock Exchange",
+            "lat": 31.2304,
+            "lon": 121.4737,
+            "city": "Shanghai",
+            "type": "equity"
+        },
+        {
+            "id": "HKEX",
+            "name": "Hong Kong Stock Exchange",
+            "lat": 22.3193,
+            "lon": 114.1694,
+            "city": "Hong Kong",
+            "type": "equity"
+        },
+        {
+            "id": "EUREX",
+            "name": "Eurex",
+            "lat": 50.1109,
+            "lon": 8.6821,
+            "city": "Frankfurt",
+            "type": "derivatives"
+        },
+        {
+            "id": "TMX",
+            "name": "TMX Group (Toronto)",
+            "lat": 43.6532,
+            "lon": -79.3832,
+            "city": "Toronto",
+            "type": "equity"
+        },
+        {
+            "id": "BSE",
+            "name": "Bombay Stock Exchange",
+            "lat": 18.9292,
+            "lon": 72.8333,
+            "city": "Mumbai",
+            "type": "equity"
+        },
+        {
+            "id": "KRX",
+            "name": "Korea Exchange",
+            "lat": 37.5665,
+            "lon": 126.978,
+            "city": "Seoul",
+            "type": "equity"
+        },
+        {
+            "id": "ASX",
+            "name": "Australian Securities Exchange",
+            "lat": -33.8688,
+            "lon": 151.2093,
+            "city": "Sydney",
+            "type": "equity"
+        },
+        {
+            "id": "BMV",
+            "name": "Mexican Stock Exchange",
+            "lat": 19.4326,
+            "lon": -99.1332,
+            "city": "Mexico City",
+            "type": "equity"
+        },
+        {
+            "id": "B3",
+            "name": "B3 (Brazil)",
+            "lat": -23.5505,
+            "lon": -46.6333,
+            "city": "S\u00e3o Paulo",
+            "type": "equity"
+        },
+        {
+            "id": "SIX",
+            "name": "SIX Swiss Exchange",
+            "lat": 47.3769,
+            "lon": 8.5417,
+            "city": "Zurich",
+            "type": "equity"
+        },
+        {
+            "id": "BINANCE",
+            "name": "Binance (Virtual)",
+            "lat": 1.3521,
+            "lon": 103.8198,
+            "city": "Singapore",
+            "type": "crypto"
+        },
+        {
+            "id": "COINBASE",
+            "name": "Coinbase",
+            "lat": 37.7749,
+            "lon": -122.4194,
+            "city": "San Francisco",
+            "type": "crypto"
+        },
+        {
+            "id": "KRAKEN",
+            "name": "Kraken",
+            "lat": 37.7749,
+            "lon": -122.4194,
+            "city": "San Francisco",
+            "type": "crypto"
+        },
+        {
+            "id": "BITFINEX",
+            "name": "Bitfinex",
+            "lat": 51.5074,
+            "lon": -0.1278,
+            "city": "London",
+            "type": "crypto"
+        },
+        {
+            "id": "HUOBI",
+            "name": "Huobi",
+            "lat": 1.3521,
+            "lon": 103.8198,
+            "city": "Singapore",
+            "type": "crypto"
+        },
+        {
+            "id": "FTX",
+            "name": "FTX (Historical)",
+            "lat": 25.7617,
+            "lon": -80.1918,
+            "city": "Miami",
+            "type": "crypto"
+        },
+        {
+            "id": "GEMINI",
+            "name": "Gemini",
+            "lat": 40.7128,
+            "lon": -74.006,
+            "city": "New York",
+            "type": "crypto"
+        },
+        {
+            "id": "BYBIT",
+            "name": "Bybit",
+            "lat": 22.3193,
+            "lon": 114.1694,
+            "city": "Hong Kong",
+            "type": "crypto"
+        }
+    ]
+}

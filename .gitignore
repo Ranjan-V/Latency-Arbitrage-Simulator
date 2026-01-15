@@ -1,0 +1,68 @@
+build/
+*.exe
+*.obj
+*.pdb
+.vs/
+.vscode/
+
+
+# Build directories
+build/
+Release/
+Debug/
+x64/
+x86/
+out/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+*.log
+*.tlog
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+!CMakeLists.txt
+
+# IDE
+*.swp
+*~
+.DS_Store
+
+# Python (if you add any scripts)
+venv/
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Don't ignore these important files
+!.gitignore
+!README.md
+!LICENSE
