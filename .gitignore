@@ -1,11 +1,3 @@
-build/
-*.exe
-*.obj
-*.pdb
-.vs/
-.vscode/
-
-
 # Build directories
 build/
 Release/
@@ -61,6 +53,13 @@ __pycache__/
 *.tmp
 *.bak
 *.old
+
+# vcpkg
+vcpkg_installed/
+
+# Large data files
+*.bin
+*.dat
 
 # Don't ignore these important files
 !.gitignore
